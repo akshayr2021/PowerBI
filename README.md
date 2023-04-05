@@ -11,5 +11,5 @@ This repository consists 3 PowerBI projects listed in different branches. (Check
 ## Technologies
 Project is created with:
 
-* PowerBI Desktop: 2.115.842.0
+* PowerBI Desktop: Version-2.115.842.0
 * Microsoft Excel
