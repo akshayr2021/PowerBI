@@ -6,7 +6,7 @@ This repository consists 3 PowerBI projects listed in different branches. (Check
 
 [1. Student Spend Analysis Survey - Beginner Level](https://github.com/akshayr2021/PowerBI/tree/Student-Spend-Analysis-Survey)
 
-[2. Product Data Analysis - Intermediate Level (includes measures-DAX & table creations)] (https://github.com/akshayr2021/PowerBI/tree/Product-Data-Analysis)
+[2. Product Data Analysis - Intermediate Level (includes measures-DAX & table creations)](https://github.com/akshayr2021/PowerBI/tree/Product-Data-Analysis)
 
 [3. Acquisition Data Analysis - Intermediate Level (includes measures-DAX & table creations)](https://github.com/akshayr2021/PowerBI/tree/Acquisition-Data-Analysis)
 
