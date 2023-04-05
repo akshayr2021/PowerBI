@@ -1,4 +1,4 @@
-## PowerBI Projects
+# PowerBI Projects
 
 Welcome folks!!
 
@@ -8,3 +8,8 @@ This repository consists 3 PowerBI projects listed in different branches. (Check
 #### 2. Product Data Analysis - Intermediate Level (includes measures-DAX & table creations)
 #### 3. Acquisition Data Analysis - Intermediate Level (includes measures-DAX & table creations)
 
+## Technologies
+Project is created with:
+
+* PowerBI Desktop: 2.115.842.0
+* Microsoft Excel
