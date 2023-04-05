@@ -1,17 +1,16 @@
-# PowerBI Projects
+# Product Data Analysis
+This project analyzes the launch strategies of a new product. The visuals created provide targeted customer segmentation & regions.
 
-Welcome folks!!
+![report](https://user-images.githubusercontent.com/34497459/230132694-33290a39-6486-42d9-be48-ddfa65eaeea3.png)
 
-This repository consists 3 PowerBI projects listed in different branches. (Check out each branch to learn more)
+## Dataset
 
-[1. Student Spend Analysis Survey - Beginner Level](https://github.com/akshayr2021/PowerBI/tree/Student-Spend-Analysis-Survey)
+The data contains information about products and its categories, employee details, regions, retail & sales etc.
 
-2. Product Data Analysis - Intermediate Level (includes measures-DAX & table creations)
+```
+1. Dim Table has date information within specified dates
+   - To create this table, open the power query editor to create a blank query (DateQuery function) and later call this function while creating the Dim Table Check advanced editor in power query for DAX reference
 
-[3. Acquisition Data Analysis - Intermediate Level (includes measures-DAX & table creations)](https://github.com/akshayr2021/PowerBI/tree/Acquisition-Data-Analysis)
 
-## Technologies
-Project is created with:
+```
 
-* PowerBI Desktop: Version-2.115.842.0
-* Microsoft Excel
