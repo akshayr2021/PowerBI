@@ -9,14 +9,14 @@ This project compromises of 3 reports visualizing sales & profit trends
 3. Product Name
    - Product Index: Mapped with the Sales table
    - Product Name
- 4. Regions
+4. Regions
     - Region Index: Mapped with Sales table
     - Other columns include territory, city and country
- 5. Sales table has information about the shipping dates, order details, units costs & revenues generated
-Some basic Git commands are:
+5. Sales table has information about the shipping dates, order details, units costs & revenues generated
 ```
-git status
-git add
-git commit
+I have created seperate manual tables containing measures
+6. Dim Table has date information within specified dates
+   - To create this table, open the power query editor to create a blank query (DateQuery function) and later call this function while creating the Dim Table
+   > Check advanced editor to refer the DAX expression
 ```
 
