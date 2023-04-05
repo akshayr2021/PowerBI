@@ -13,7 +13,7 @@ This project compromises of 3 reports visualizing sales & profit trends
     - Region Index: Mapped with Sales table
     - Other columns include territory, city and country
  5. Sales table has information about the shipping dates, order details, units costs & revenues generated
- '''
+ ```
  6. Important Measures 
-'''
+```
 
