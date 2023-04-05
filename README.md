@@ -13,11 +13,10 @@ This project compromises of 3 reports visualizing sales & profit trends
     - Region Index: Mapped with Sales table
     - Other columns include territory, city and country
 5. Sales table has information about the shipping dates, order details, units costs & revenues generated
+**I have created seperate manual tables containing measures
 ```
-I have created seperate manual tables containing measures
 6. Dim Table has date information within specified dates
    - To create this table, open the power query editor to create a blank query (DateQuery function) and later call this function while creating the Dim Table
-> Text that is a quote
- Check advanced editor to refer the DAX expression
+   (Check advanced editor in power query for reference)
 ```
 
