@@ -1,6 +1,8 @@
 # Acquisition Data Analysis
 This project compromises of 3 reports visualizing sales & profit trends
 
+![reports](https://user-images.githubusercontent.com/34497459/230116509-2e132c25-86ae-4d1c-9815-588aa00bdeb9.png)
+
 ## Dataset & Tables Information
 1. Customer Data
    - Customer Index: Mapped with the Sales table
@@ -45,6 +47,11 @@ IF(RANKX(ALL('Product Data'[Product Name]),[Total Sales],,DESC)<=10,[Total Sales
     [Total Sales])
     
  ## Data Model/ Schema
+ 
+ ![schema](https://user-images.githubusercontent.com/34497459/230116395-6090cb5c-c32e-40c7-9d1a-1c8d3fbd3083.png)
+
+ 
+ 
  
 
 
