@@ -14,7 +14,7 @@ This project analyzes student spendings on different kinds of purchases like boo
 ## Visuals
 > Basic visuals are present in visual but to perform a SandDance plot you first need to download it from the store
 
-** I have applied conditional formatting rules on some graphs. Check out my work for your reference (.pbix file)**
+**I have applied conditional formatting rules on some graphs. Check out my work for your reference (.pbix file)**
 
 ## This project is for beginners who have just started. For advanced projects check out my other works in this repository 
 
