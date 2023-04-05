@@ -18,3 +18,5 @@ This project analyzes student spendings on different kinds of purchases like boo
 
 `This project is for beginners who have just started. For advanced projects check out my other works in this repository`
 
+# Happy Learning!
+
