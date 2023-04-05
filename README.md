@@ -2,11 +2,16 @@
 This project compromises of 3 reports visualizing sales & profit trends
 
 ## Dataset & Tables Information
-1. And another item.
+1. Customer Data
+   - Customer Index: Mapped with the Sales table
+   - Customer Names
+2. Metric Selection includes metric index and metrics name
+3. Product Name
+   - Product Index: Mapped with the Sales table
+   - Product Name
+ 4. Regions
+    - Region Index: Mapped with Sales table
+    - Other columns include territory, city and country
+ 5. Sales table has information about the shipping dates, order details, units costs & revenues generated 
 
-⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
-
-⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
-⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
-⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
 
