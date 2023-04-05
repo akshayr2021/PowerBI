@@ -1,17 +1,7 @@
-# PowerBI Projects
+# Student Spend Analysis Survey
 
-Welcome folks!!
+![reports](https://user-images.githubusercontent.com/34497459/230121192-85863c9b-347b-4a42-b1e3-3077ac526e20.png)
 
-This repository consists 3 PowerBI projects listed in different branches. (Check out each branch to learn more)
-
-[1. Student Spend Analysis Survey - Beginner Level](https://github.com/akshayr2021/PowerBI/tree/Acquisition-Data-Analysis)
-
-2. Product Data Analysis - Intermediate Level (includes measures-DAX & table creations)
-
-[3. Acquisition Data Analysis - Intermediate Level (includes measures-DAX & table creations)](https://github.com/akshayr2021/PowerBI/tree/Acquisition-Data-Analysis)
-
-## Technologies
-Project is created with:
-
-* PowerBI Desktop: Version-2.115.842.0
-* Microsoft Excel
+## Connect data to PowerBI report
+* Download Student Survey excel data
+* Open PowerBI -> Get data -> Excel workbook -> Select all sheets -> Load
