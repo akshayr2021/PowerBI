@@ -17,6 +17,6 @@ This project compromises of 3 reports visualizing sales & profit trends
 I have created seperate manual tables containing measures
 6. Dim Table has date information within specified dates
    - To create this table, open the power query editor to create a blank query (DateQuery function) and later call this function while creating the Dim Table
-   > Check advanced editor to refer the DAX expression
+> Check advanced editor to refer the DAX expression
 ```
 
