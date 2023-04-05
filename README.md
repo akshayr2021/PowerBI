@@ -53,6 +53,7 @@ IF(RANKX(ALL('Product Data'[Product Name]),[Total Sales],,DESC)<=10,[Total Sales
  
  ![schema](https://user-images.githubusercontent.com/34497459/230116395-6090cb5c-c32e-40c7-9d1a-1c8d3fbd3083.png)
 
+# Happy Learning!!
  
  
  
