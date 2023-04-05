@@ -25,6 +25,8 @@ This project compromises of 3 reports visualizing sales & profit trends
    - Total Quantity: Total Quantity = SUM(Sales[Order Quantity])
    - Total Cost: Total Cost = SUMX(Sales, Sales[Order Quantity]*Sales[Total Unit Cost])
    - Profit Margin: Profit Margin = DIVIDE([Total Profit], [Total Sales], 0)
- 8. 
+ 8. Top Scenarios
+    - Top 10 Customers: Top 10 Customers = CALCULATE([Total Sales], FILTER(VALUES('Customer Data'[Customer Names]),
+IF(RANKX(ALL('Customer Data'[Customer Names]),[Total Sales],,DESC)<=10,[Total Sales], BLANK())))
 
 
