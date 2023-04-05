@@ -1,4 +1,6 @@
-## Welcome folks!! PowerBI Projects
+## PowerBI Projects
+
+Welcome folks!!
 
 This repository consists 3 PowerBI projects listed in different branches. (Check each branch to learn more)
 
