@@ -22,6 +22,7 @@ IF(RANKX(ALL('Product Sub-Category'[Subcategory]), [Total Units Sold], , DESC)<=
 
 ## Data Model/ Schema
 > NOTE: When you load data into PowerBI it is possible that some relationships amongst the tables might be missing. Create new relations if needed.
+
 > Check the model view tab in PowerBI to learn more
 
 ![model](https://user-images.githubusercontent.com/34497459/230136485-1036fffd-6fc3-49ab-8d6c-4a1b81acb136.png)
