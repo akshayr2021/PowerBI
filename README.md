@@ -2,6 +2,7 @@
 This project compromises of 3 reports visualizing sales & profit trends
 
 ![reports](https://user-images.githubusercontent.com/34497459/230116509-2e132c25-86ae-4d1c-9815-588aa00bdeb9.png)
+> NOTE: For map visual -> enable map permissions from settings in PowerBI desktop or powerbi.microsoft.com
 
 ## Dataset & Tables Information
 1. Customer Data
@@ -48,6 +49,7 @@ IF(RANKX(ALL('Product Data'[Product Name]),[Total Sales],,DESC)<=10,[Total Sales
     [Total Sales])
     
  ## Data Model/ Schema
+ > NOTE: When you load data into PowerBI it is possible that some relationships amongst the tables might be missing. Create new relations if needed.
  
  ![schema](https://user-images.githubusercontent.com/34497459/230116395-6090cb5c-c32e-40c7-9d1a-1c8d3fbd3083.png)
 
